@@ -6,7 +6,7 @@ The goal of this challenge is to provide an analysis and visualization using rid
 
 ## Results
 
-### Chart Ilustration 
+### Chart Ilustration 1
 
 ![Total Fare by City Type Chart](https://user-images.githubusercontent.com/108438270/189458522-88ad3d20-c574-468c-9f8c-3a8813b84cb9.png)
 
@@ -15,7 +15,7 @@ The Urban cities are the ones to get the highest total revenue, followed by the 
 We ca say that there are more drivers in the rural area and that the usage for Urban areas is higher.
 
 
-### Chart Ilustration 
+### Chart Ilustration 2
 
 ![Fares](https://user-images.githubusercontent.com/108438270/189458949-1602e01e-730c-4d29-986b-9acfd2499d0b.png)
 
